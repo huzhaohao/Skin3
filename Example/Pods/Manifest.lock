@@ -1,0 +1,16 @@
+PODS:
+  - Skin (0.1.0)
+
+DEPENDENCIES:
+  - Skin (from `../`)
+
+EXTERNAL SOURCES:
+  Skin:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Skin: 17e2b98ea306a4b79cc82da831ca48b9dd29d00a
+
+PODFILE CHECKSUM: 65a22c3b55a1fcd93e441a35d41aef398c707ea2
+
+COCOAPODS: 1.7.5
