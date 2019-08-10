@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Skin_Example' do
+  pod 'Skin', :path => '../'
+
+  target 'Skin_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
